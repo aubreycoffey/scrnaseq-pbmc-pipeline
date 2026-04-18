@@ -6,7 +6,7 @@ A reproducible computational pipeline for single-cell RNA sequencing (scRNA-seq)
 
 ## Overview
 
-This project demonstrates a full single-cell transcriptomics workflow — from raw count data through to multimodal TCR integration — using industry-standard Python tools. It is structured as a series of modular, sequential notebooks, each building on the last.
+This project demonstrates a full single-cell transcriptomics workflow, from raw count data through to multimodal TCR integration, using industry-standard Python tools. It is structured as a series of modular, sequential notebooks, each building on the last.
 
 | Step | Notebook | Description |
 |------|----------|-------------|
@@ -20,7 +20,7 @@ This project demonstrates a full single-cell transcriptomics workflow — from r
 
 ## Quick start (Google Colab)
 
-Each notebook has an **Open in Colab** badge at the top. Click to launch — no local setup required. Notebooks mount Google Drive to persist intermediate `.h5ad` files across sessions, so run them in order (01 → 05).
+Each notebook has an **Open in Colab** badge at the top. Click to launch, no local setup required. Notebooks mount Google Drive to persist intermediate `.h5ad` files across sessions, so run them in order (01 → 05).
 
 | Notebook | Colab |
 |----------|-------|
