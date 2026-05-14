@@ -24,11 +24,11 @@ Each notebook has an **Open in Colab** badge at the top. Click to launch, no loc
 
 | Notebook | Colab |
 |----------|-------|
-| 01 · Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/single-cell-analysis-pipeline/blob/main/notebooks/01_preprocessing.ipynb) |
-| 02 · Clustering & Annotation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/single-cell-analysis-pipeline/blob/main/notebooks/02_clustering_annotation.ipynb) |
-| 03 · Differential Expression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/single-cell-analysis-pipeline/blob/main/notebooks/03_differential_expression.ipynb) |
-| 04 · Trajectory Inference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/single-cell-analysis-pipeline/blob/main/notebooks/04_trajectory_inference.ipynb) |
-| 05 · TCR Integration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/single-cell-analysis-pipeline/blob/main/notebooks/05_tcr_integration.ipynb) |
+| 01 · Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/scrnaseq-pbmc-pipeline/blob/main/notebooks/01_preprocessing.ipynb) |
+| 02 · Clustering & Annotation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/scrnaseq-pbmc-pipeline/blob/main/notebooks/02_clustering_annotation.ipynb) |
+| 03 · Differential Expression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/scrnaseq-pbmc-pipeline/blob/main/notebooks/03_differential_expression.ipynb) |
+| 04 · Trajectory Inference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/scrnaseq-pbmc-pipeline/blob/main/notebooks/04_trajectory_inference.ipynb) |
+| 05 · TCR Integration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreycoffey/scrnaseq-pbmc-pipeline/blob/main/notebooks/05_tcr_integration.ipynb) |
 
 ---
 
